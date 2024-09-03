@@ -25,7 +25,6 @@
   background-color: var(--mid-color);
   box-shadow: 0 0 0 0.1rem #00adb5;
   color: var(--bs-white);
-
 }
 .content-art textarea {
   background-color: var(--base-color);
@@ -48,7 +47,6 @@
   background-color: var(--mid-color);
   box-shadow: 0 0 0 0.1rem #00adb5;
   color: var(--bs-white);
-
 }
 @media (max-width: 550px) {
   .title-art input {
